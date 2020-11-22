@@ -4,7 +4,7 @@
 * 在浏览器中键入<span>https://www.test.com</span>回车后可能涉及到哪些协议？（计算机网络）
   <details><summary>参考答案</summary>DNS协议（UDP或TCP），SSL握手协议，HTTP协议（目前主流TCP），如果目标机器不可访问可能会收到ICMP差错报文</details>
  
-* 快速排序最坏时间复杂度是多少？什么情况下会导致最坏情况？如何改善？
+* 快速排序最坏时间复杂度是多少？什么情况下会导致最坏情况？如何改善？（算法）
   <details>
   <summary>参考答案</summary>
     O(n^2)，凡是会导致划分一边倒的输入都会出现最坏情况，比如正序、逆序或者全部元素相同<br><br>
